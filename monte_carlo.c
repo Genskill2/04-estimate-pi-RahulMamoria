@@ -46,8 +46,8 @@ int main(void) {
 
   if (fabs(pi0 - pi1) > 0.05) {
       printf("Two separate estima…
-[12:54 PM, 6/4/2021] Yash Nitc: monte carlo vala
-[12:54 PM, 6/4/2021] Yash Nitc: #include <assert.h>
+ monte carlo vala
+[ #include <assert.h>
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h>
